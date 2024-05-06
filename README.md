@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=vite,html,css,cloudflare,docker,gcp,c,cpp,linux,figma,github" /> <br/>
 </div>
 <br />
-<h2 align="center">Statistics</h2>
+<!-- <h2 align="center">Statistics</h2>
 <br>
 
 <div align='center'>
@@ -23,4 +23,4 @@
   <a href="https://github.com/NiralaLamichhane/github-readme-stats">
     <img height=200 src="https://github-readme-stats-six-amber-74.vercel.app/api/top-langs/?username=NiralaLamichhane&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
   </a>
-</div>
+</div> -->
